@@ -1,0 +1,1 @@
+Aparece un codigo RGB (#RRGGBB) en pantalla y cuatro colores, elegis el color correcto y eso
